@@ -1,6 +1,7 @@
 # Pin-rescue-copy
 
-https://apps.apple.com/jp/app/pin-rescue/id1500249157　こちらのアプリのコピーを作りました。ステージ５まであります。
+https://apps.apple.com/jp/app/pin-rescue/id1500249157　
+こちらのアプリのコピーを作りました。ステージ５まであります。
 
 　
 ## Stage1
