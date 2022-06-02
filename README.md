@@ -1,6 +1,6 @@
 # Pin-rescue-copy
 
-https://apps.apple.com/jp/app/pin-rescue/id1500249157　
+[https://apps.apple.com/jp/app/pin-rescue/id1500249157　](https://play.google.com/store/apps/details?id=com.noxgroup.game.pinrescue.android&hl=ja&gl=US)
 
 こちらのアプリのコピーを作りました。ステージ５まであります。
 
